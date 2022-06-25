@@ -1,6 +1,6 @@
-##Simple Deployment with Docker
+## Simple Deployment with Docker
 
-*In this project I made a simple Docker deployment of a pickle file and made prediction through the exposed port.
+* In this project I made a simple Docker deployment of a pickle file and made prediction through the exposed port.
 
 * The predict.py has the model loaded and have  builds a endpoint using Flask api through which you can make api calls to get the predictions which has been done using the test.py
 
